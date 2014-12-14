@@ -2101,7 +2101,7 @@ minetest.register_node("dwemer:gold_fruit", {
 
 
 minetest.register_craft({
-	output = 'dwemer:sapling 6',
+	output = 'dwemer:sapling 4',
 	recipe = {
 		{"default:steel_ingot","default:copper_ingot","default:steel_ingot"},
 		{"default:gold_ingot","default:sapling" ,"default:gold_ingot"},
